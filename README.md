@@ -7,7 +7,7 @@
     <a href="https://github.com/AdityaTeltia/Uchiha_innovathon21"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AdityaTeltia/Uchiha_innovathon21">View Demo</a>
+    <a href="https://let-us.codes">View Demo</a>
   </p>
 </p>
 
