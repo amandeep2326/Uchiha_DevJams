@@ -1,0 +1,16 @@
+.outside_container{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px solid #8C30F5;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+}
+
+.socials{
+    display: flex;
+    gap: 20px;
+}
