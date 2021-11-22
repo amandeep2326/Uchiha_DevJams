@@ -67,7 +67,7 @@ This is an example of how to list things you need to use the software and how to
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/AdityaTeltia/Uchiha_innovathon21.git
+   git clone https://github.com/amandeep2326/Uchiha_DevJams.git
    ```
 
 2. Install NPM packages
