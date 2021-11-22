@@ -1,5 +1,5 @@
   <strong>
-    <h3 align="center" >CoCode</h3>
+    <h3 align="center" >LetsCode</h3>
   </strong>
   <p align="center">
     A Real Time Collaborative Platform for all the Users Who Love Coding
