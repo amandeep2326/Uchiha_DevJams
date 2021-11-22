@@ -4,7 +4,6 @@
   <p align="center">
     A Real Time Collaborative Platform for all the Users Who Love Coding
     <br />
-    <a href="https://github.com/AdityaTeltia/Uchiha_innovathon21"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="http://www.let-us.codes/#/">View Demo</a>
